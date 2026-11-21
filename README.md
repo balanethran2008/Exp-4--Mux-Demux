@@ -86,7 +86,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ## Output
 <img width="1907" height="1013" alt="Screenshot 2026-11-18 123026" src="https://github.com/user-attachments/assets/7045f1b2-52b8-4088-900b-b96777348fc2" />
 
-
+<img width="1917" height="1013" alt="Screenshot 2026-11-18 123057" src="https://github.com/user-attachments/assets/a2e8df6c-c52b-4fbd-8cfe-617f620d7068" />
 
 ## Viva-Voce Questions
 
